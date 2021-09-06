@@ -1,0 +1,21 @@
+.h-login{
+    height: 80%;
+}
+.logo-login{
+    background: url("../img/logo-login.gif");
+    background-position: center;
+    background-size: 250px 250px;
+    background-repeat: no-repeat;
+    /* background-color: rgb(175, 47, 47); */
+    /* background-position: right; */
+    
+}
+.h-alert{
+    height: 30px;
+}
+.layer-9999{
+    z-index:9999 !important;
+}
+.fix-table-w{
+    max-width: 100% !important;
+}
